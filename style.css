@@ -1,0 +1,60 @@
+nav {
+  background-color: #3b4252;
+  top: 0;
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  font-size: 34px;
+  font-weight: 900;
+  font-family: "Montserrat";
+  color: white;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #e5e9f0;
+}
+.sign-up-form {
+  text-align: center;
+  margin: 27vmin auto;
+  width: 29vmin;
+  height: 39vmin;
+  padding: 7vmin;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: white;
+}
+.sign-up-form h1 {
+  color: #3b4252;
+  font-size: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+.sign-up-form p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+.sign-up-form a {
+  text-decoration: none;
+}
+.input {
+  padding: 1vmin 0;
+  margin: 1vmin 0;
+  width: 100%;
+  height: 1vmin;
+  outline: none;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+.sign-up-form button {
+  color: white;
+  width: 100%;
+  cursor: pointer;
+  background-color: #3b4252;
+  border-radius: 1.5vmin;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  padding: 1.3vmin;
+  margin-top: 3vmin;
+  border: none;
+}
